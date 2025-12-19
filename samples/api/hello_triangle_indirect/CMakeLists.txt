@@ -24,7 +24,7 @@ add_sample(
     ID ${FOLDER_NAME}
     CATEGORY ${CATEGORY_NAME}
     AUTHOR "Arm"
-    NAME "Hello Triangle"
+    NAME "Hello Triangle Indirect"
     DESCRIPTION "An introduction into Vulkan and its respective objects."
     SHADER_FILES_GLSL
         "hello_triangle/glsl/triangle.vert"
